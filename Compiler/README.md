@@ -4,4 +4,6 @@ $ scheme  <br>
 $ (load "scheme-scheme2")   <br>
 <br>
 scheme-scheme : 用scheme写scheme的解释器  <br>
-scheme-scheme2 : 将语法分析的结果预留，与执行分开
+scheme-scheme2 : 将语法分析的结果预留，与执行分开<br>
+scheme-scheme-delay : 惰性计算（模拟正则序）<br>
+
